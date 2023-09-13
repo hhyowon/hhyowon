@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="800"/>
 </div>
 <!--
 **hhyowon/hhyowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
